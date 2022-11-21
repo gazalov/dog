@@ -1,0 +1,15 @@
+C:\My_files\git\training\dog\doggy\bin\Debug\net7.0\doggy.exe
+C:\My_files\git\training\dog\doggy\bin\Debug\net7.0\doggy.deps.json
+C:\My_files\git\training\dog\doggy\bin\Debug\net7.0\doggy.runtimeconfig.json
+C:\My_files\git\training\dog\doggy\bin\Debug\net7.0\doggy.dll
+C:\My_files\git\training\dog\doggy\bin\Debug\net7.0\doggy.pdb
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.csproj.AssemblyReference.cache
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.AssemblyInfoInputs.cache
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.AssemblyInfo.cs
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.csproj.CoreCompileInputs.cache
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.dll
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\refint\doggy.dll
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.pdb
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\doggy.genruntimeconfig.cache
+C:\My_files\git\training\dog\doggy\obj\Debug\net7.0\ref\doggy.dll
